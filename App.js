@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var axios = require('axios'),
 fs = require('fs'),
 options = require('minimist')(process.argv.slice(2)),
