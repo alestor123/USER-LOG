@@ -1,0 +1,19 @@
+{
+  "name": "user-log",
+  "version": "1.0.0",
+  "description": "This is a simple code for making a log of github users actions",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/USER-LOG.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/USER-LOG/issues"
+  },
+  "homepage": "https://github.com/alestor123/USER-LOG#readme"
+}
